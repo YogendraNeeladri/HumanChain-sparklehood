@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# HumanChain AI Safety Incident Dashboard
 
+# HumanChain AI Safety Incident Dashboard
+https://humanchainsparklehood.netlify.app/
 This project is a frontend take-home assignment for HumanChain, an AI safety startup. It's a dashboard that displays AI safety incidents, allows filtering and sorting, and provides functionality to report new incidents.
 
 ## Tech Stack
@@ -61,4 +61,4 @@ This project is a frontend take-home assignment for HumanChain, an AI safety sta
 - Implement incident status tracking
 =======
 # HumanChain-sparklehood
->>>>>>> ce310d584c0a795380b37ae30992fa11aabc38db
+
